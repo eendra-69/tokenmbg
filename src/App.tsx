@@ -1323,7 +1323,7 @@ export default function MBGTokenWireframeMobile() {
                 Catatan
               </div>
               <div className="rounded-2xl bg-slate-50 p-4 text-sm leading-6 text-slate-600">
-                Mock-up aplikasi MBG Token ini hanya sebagai referensi konsep visual.
+                Mock-up aplikasi MBG Token ini hanya sebagai referensi konsep visual tim WISE.
                 Detail tampilan dapat berubah menyesuaikan integrasi smart contract dan API perangkat.
                 Tata letak dan elemen visual akan terus dioptimalkan berdasarkan hasil pengujian pengguna.
                 Produk final yang dirilis mungkin memiliki perbedaan signifikan dari desain wireframe ini.
